@@ -24,12 +24,7 @@ Skills: JavaScript / React  / TypeScript / Python / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmoar277&langs_count=8&layout=compact)](https://github.com/amanmoar277/manage-pending-work-backend)
 
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanmoar277)](https://github.com/amanmoar277/manage-pending-work-backend)
+-->
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
