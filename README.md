@@ -1,9 +1,17 @@
 ### Hi there 👋, my name is Aman
-#### Software Development Engineer I
+#### Software Development Engineer I  :man_technologist:
 I really enjoy playing with JavaScript and tech related stuff.
 
-Skills: JavaScript / React  / TypeScript / Python / HTML / CSS
+#### Skills: 
+* :atom_symbol: React
+* :computer: NodeJS
+* :fire: JavaScript
+* :gem: TypeScript 
+* :crown:	Python 
+* :tophat: HTML 
+* :art: CSS
 
+#### About:
 - 🔭 I’m currently working on JavaScript.
 - 🌱 I’m currently learning JavaScript and React.
 - 👯 I’m looking to collaborate on JavaScript.
