@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Aman
+#### Software Development Engineer I
+I really enjoy playing with JavaScript and tech related stuff.
 
-<!--
-**amanmoar277/amanmoar277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Skills: JavaScript / React  / TypeScript / Python / HTML / CSS
 
 - 🔭 I’m currently working on JavaScript.
 - 🌱 I’m currently learning JavaScript and React.
@@ -14,4 +14,8 @@
 - ⚡ Fun fact: Bois, nothing is funny out there.
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanmoar277&show_icons=true&theme=radical)
+
+
+
+
 
