@@ -21,6 +21,7 @@ Skills: JavaScript / React  / TypeScript / Python / HTML / CSS
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanmoar277&show_icons=true&theme=radical)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmoar277)](https://github.com/amanmoar277/github-readme-stats)
 
 
 
