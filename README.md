@@ -20,8 +20,16 @@ Skills: JavaScript / React  / TypeScript / Python / HTML / CSS
 -->
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanmoar277&show_icons=true&theme=radical)
 
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=amanmoar277&repo=search-city)](https://github.com/amanmoar277/search-city)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmoar277)](https://github.com/amanmoar277/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmoar277&langs_count=8&layout=compact)](https://github.com/amanmoar277/manage-pending-work-backend)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanmoar277)](https://github.com/amanmoar277/manage-pending-work-backend)
 
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
