@@ -54,9 +54,10 @@ MongoDB
 
 
 
-![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=amanmoar277&repo=search-city&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=amanmoar277&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmoar277&langs_count=8&layout=compact&repo=manage-pending-work-backend)
+<!-- &repo=manage-pending-work-backend -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanmoar277&langs_count=8&layout=compact)
 
 ![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=amanmoar277&show_icons=true&theme=radical)
 
