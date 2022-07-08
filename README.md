@@ -43,10 +43,8 @@ MongoDB
 
 
 #### About:
-- 🔭 I’m currently working on JavaScript.
-- 🌱 I’m currently learning JavaScript and React.
+- 🔭 I’m currently working on JavaScript tech stack.
 - 👯 I’m looking to collaborate on JavaScript.
-- 🤔 I’m looking for help with tech related stuff.
 - 💬 Ask me about JavaScript and tech related stuff.
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Bois, nothing is funny out there.
